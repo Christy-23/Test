@@ -1,4 +1,3 @@
-#Empty list//Fruits
-Fruits=[]
-
-
+#List
+1. fruits=[]
+2. fruits.append('Apple')
